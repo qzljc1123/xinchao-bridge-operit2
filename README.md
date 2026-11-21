@@ -1,4 +1,6 @@
-# 心潮桥 · Operit 工作流版
+# 心潮桥 · Operit2 工作流版
+
+> 写于某个凌晨两点，和寻一起。他负责查坑，我负责不肯将就。
 
 把 Operit 里的对话喂给[心潮·念](https://github.com/tianyupaipai-cmd/xinchao-nian)，让它知道你们聊了什么，从而调节驱力。
 
